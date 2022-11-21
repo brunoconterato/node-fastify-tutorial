@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/brunoconterato/node-fastify-tutorial#readme",
   "dependencies": {
-    "fastify": "^3.27.1"
+    "fastify": "^3.29.4"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
